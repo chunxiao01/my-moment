@@ -15,7 +15,7 @@
 
 - [创建项目](https://github.com/new),新建一个仓库.
 
-* 下载博客模板项目到本地，下载地址：https://github.com/cxycool/moment/releases
+* 下载博客模板项目到本地，下载地址：https://github.com/chunxiao01/my-moment/releases
 * 解压缩
 * 上传文件到自己创建的项目中，将解压缩的文件拖拽到自己创建的空白项目中
 
