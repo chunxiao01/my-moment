@@ -2,6 +2,7 @@
   "name": "我的时光隧道",
   "short_name": "我的時光隧道",
   "start_url": "https://chunxiao01.github.io/my-moment/",
+  "id": "/my-moment/",
   "display": "standalone",
   "background_color": "#E9ECEF",
   "description": "走走停停，不如定定；想想思思，不如写写",
@@ -10,6 +11,11 @@
     {
       "src": "./favicon.png",
       "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon144.png",
+      "sizes": "144x144",
       "type": "image/png"
     }
   ]
