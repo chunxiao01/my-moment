@@ -1,5 +1,5 @@
 var _config = {
-  blog_name: "一寸光阴", //"朝花夕拾•札记",//"you are my destiny", // 博客名称
+  blog_name: "「 Moment • 片刻 」", //"朝花夕拾•札记",//"you are my destiny", // 博客名称
   blog_url: "", //博客地址
   blog_pub_url: "", //博客发布地址
   owner: "chunxiao01", // github 用户名
