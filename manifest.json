@@ -1,12 +1,12 @@
 {
   "lang": "zh-CN",
-  "name": "Moment",
-  "short_name": "片刻",
+  "name": "世界很美，而你正好有空",
+  "short_name": "MOMENT",
   "start_url": "/my-moment/",
   "id": "/my-moment/",
   "display": "standalone",
   "background_color": "#E9ECEF",
-  "description": "世界很美，而你刚好有空",
+  "description": "世界很美，而你正好有空",
   "orientation": "portrait-primary",
   "icons": [
     {

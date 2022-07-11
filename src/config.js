@@ -1,9 +1,9 @@
 var _config = {
-  blog_name: "「 Moment • 片刻 」", //"朝花夕拾•札记",//"you are my destiny", // 博客名称
+  blog_name: "「 MOMENT • 片刻 」", //"朝花夕拾•札记",//"you are my destiny", // 博客名称
   blog_url: "", //博客地址
   blog_pub_url: "", //博客发布地址
   owner: "chunxiao01", // github 用户名
-  nickname: "鳳梨罐頭也過期", //"哆啦A梦", //用户昵称
+  nickname: "未完待續", //"哆啦A梦", //用户昵称
   repo: "my-moment", // github 中对应仓库名
   blog_author_type: "OWNER", //发布博客的用户 默认 OWNER
   show_friend: false, //是否展示好友
@@ -16,6 +16,6 @@ var _config = {
   github_url: "github.com",
   github_ip: "20.205.243.166",
   mainfest: {
-    apple_mobile_web_app_title: "我的時光隧道" //iPhone的桌面应用的标题
+    apple_mobile_web_app_title: "MOMENT" //iPhone的桌面应用的标题
   }
 }
